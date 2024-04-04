@@ -40,6 +40,13 @@
 <br>
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuuzxtk&theme=kacho_ga)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuuzxtk&theme=kacho_ga)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuuzxtk&theme=kacho_ga)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuuzxtk&theme=kacho_ga)
+
+
+
 <p align="centre"><b>Visitors Count</b></p> 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fyuuzxtk&s=40&c=8a0505&bg=00000000&no=4&ff=electrolize&tb=VISITS%3A&ta=" alt="visits" /></p>
 
