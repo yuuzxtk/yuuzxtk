@@ -31,6 +31,9 @@
   <a href="https://pt.wikipedia.org/wiki/JavaScript">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin&fill=black&textfill=bface6&">
   </a>
+   <a href="https://pt.wikipedia.org/wiki/Java">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&animation=spin&fill=black&textfill=bface6&">
+  </a>
   
 <br>
 <br>
